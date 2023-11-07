@@ -1,0 +1,5 @@
+n = input("Nhap vao N = ")
+n = int(n)
+print("Ban da nhap vao so nguyen n =", n)
+c = input()
+print("Van Duong Hoang vo dich Olympic tin hoc sinh vien")
